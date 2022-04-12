@@ -1,0 +1,303 @@
+
+
+#lado {
+    height: 100%; 
+    width: 100%; 
+    position: fixed; 
+    z-index: 1; 
+    background-color: #246B73; 
+}
+
+
+#link {
+    width: 40px;
+    height: 40px;
+    max-width: 20%;
+}
+
+#cima {
+    background-color: #024059;
+    height: 160px; 
+    width: 50%; 
+    position: fixed; 
+    z-index: 6; 
+    top: 0; 
+    left: 380px;
+}
+
+#base {
+    z-index: 50;
+    background-color: #C1D4D9;
+    position: fixed;
+    top: 155px ;
+    left: 380px;
+    width: 50%;
+    height: 100%;
+    z-index: 2; 
+}
+
+#perfil {
+    position: fixed;
+    left: 900px;
+    top: 0;
+    bottom: 20px;
+    z-index: 7;
+    border-radius: 100%;
+    border-width: 5px;
+    border-style: solid;
+    border-color:#C1D4D9 ;
+    width: 150px;
+}
+
+#nome {
+    color: #C1D4D9;
+    position: fixed;
+    left: 390px;
+    z-index: 7;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font: bolder;
+}
+
+.titulobase {
+    position: absolute;
+    left: 390px;
+    z-index: 5;
+    color: #246B73;
+    font-size:x-large;
+}
+
+.textobase {
+    position: absolute;
+    left: 390px;
+    z-index: 5;
+    color: #024059;
+    text-align: justify;
+}
+
+#exp {
+    position: absolute;
+    top: 160px;
+}
+
+#texp {
+    position: absolute;
+    top: 210px;
+    font-size: larger;
+}
+
+#objetivos {
+    position: absolute;
+    top: 500px;
+}
+
+#tobjetivos {
+    position: absolute;
+    top: 550px;
+    font-size: larger;
+    text-align: justify;
+
+}
+#linguas {
+    position: absolute;
+    top: 700px;
+}
+
+#tlinguas {
+    position: absolute;
+    top: 750px;
+    font-size: larger;
+    text-align: justify;
+}
+
+#equipamento {
+    position: absolute;
+    top: 850px;
+}
+
+#tequipamento {
+    position: absolute;
+    top: 900px;
+    font-size: larger;
+    text-align: justify;
+}
+#proeficiencias {
+    position: absolute;
+    top: 1160px;
+}
+
+#tproeficiencias {
+    position: absolute;
+    top: 1210px;
+    font-size: larger;
+    text-align: justify;
+}
+
+#importante {
+    position: absolute;
+    top: 1380px;
+}
+
+#timportante {
+    position: absolute;
+    top: 1430px;
+    font-size: larger;
+    text-align: justify;
+}
+
+#lorem {
+    position: absolute;
+    top: 2300px;
+    font-size: larger;
+    text-align: justify;
+}
+
+
+#foto1 {
+    position: absolute;
+    left: 1150px;
+    z-index: 6;
+    display: inline-block;
+}
+
+#foto2 {
+    position: absolute;
+    left:10px;
+    z-index: 7;
+    display: inline-block;
+}
+#foto3 {
+    position: absolute;
+    left: -50px;
+    top: 400px;
+    z-index: 1;
+    display: inline-block;
+}
+#foto4 {
+    position: absolute;
+    left: 1130px;
+    top: 380px;
+    z-index: 7;
+    display: inline-block;
+}
+
+#foto5 {
+    position: absolute;
+    left: 650px;
+    top: 800px;
+    z-index: 7;
+    display: inline-block;
+}
+
+#foto6 {
+    position: absolute;
+    left: 1200px;
+    top: 1590px;
+    z-index: 7;
+    display: inline-block;
+}
+
+#foto7 {
+    position: absolute;
+    left: 680px;
+    top: 1450px;
+    z-index: 7;
+    display: inline-block;
+}
+
+#foto8 {
+    position: absolute;
+    left:180px;
+    top: 1486px;
+    z-index: 8;
+    display: inline-block;
+}
+
+#foto9 {
+    position: absolute;
+    left: 1000px;
+    top: 1000px;
+    z-index: 7;
+    display: inline-block;
+}
+
+#foto10 {
+    position: absolute;
+    right:1100px;
+    top: 1000px;
+    z-index: 8;
+    display: inline-block;
+    
+}
+
+#foto11 {
+    position: absolute;
+    left: 260px;
+    top: 1850px;
+    z-index: 8;
+    display: inline-block;
+    
+}
+
+#foto12 {
+    position: absolute;
+    left: 780px;
+    top: 1850px;
+    z-index: 8;
+    display: inline-block;
+    
+}
+#foto13 {
+    position: absolute;
+    left: 600px;
+    top: 2290px;
+    z-index: 8;
+    display: inline-block;
+    
+}
+#foto14 {
+    position: absolute;
+    left: 20px;
+    top: 2300px;
+    z-index: 8;
+    display: inline-block;
+}
+
+#foto15 {
+    position: absolute;
+    left: 950px;
+    top: 2600px;
+    z-index: 15;
+    display: inline-block;
+}
+
+#foto16 {
+    position: absolute;
+    right: 1200px;
+    top: 1800px;
+    z-index: 7;
+    display: inline-block;
+}
+
+#foto17 {
+    position: absolute;
+    right: 1200px;
+    top: 2800px;
+    z-index: 7;
+    display: inline-block;
+}
+
+#foto18 {
+    position: absolute;
+    right:0px;
+    top: 2200px;
+    z-index: 7;
+    display: inline-block;
+}
+
+#foto20 {
+    position: absolute;
+    right:600px;
+    top: 2850px;
+    z-index: 7;
+    display: inline-block;
+}
